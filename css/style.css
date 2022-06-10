@@ -401,7 +401,7 @@ section {
     display: none;
 }
 
-.portfolio .image-content .img-card .section-overlay.show {
+/* .portfolio .image-content .img-card .section-overlay.show {
     width: auto;
     height: auto;
     position: fixed;
@@ -413,7 +413,7 @@ section {
     overflow: hidden;
     z-index: 12;
     animation: overlayEffectBlur .3s forwards;
-}
+} */
 
 @keyframes overlayEffectBlur {
     0% {
